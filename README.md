@@ -1,5 +1,5 @@
-## A Small Lecture for Li Shuo
-> Hoping this tutorial would be beneficial for her.  
+## A Brief Lecture for Li Shuo
+> Just code it!  
 * L1.md     
     * 命令行指北  
     * Git指北  
@@ -17,5 +17,9 @@
 * L4.md
     * 类
     * vector
-* Appendix I.md  
+* [L5.ipynb](https://colab.research.google.com/drive/1z1tz5FgayQHVp7RqF889r8DnBxFcVwin)
+    * numpy basics
+    * 逻辑回归: logistic regression
+    
+* Appendix_I.md  
     * VsCode 使用指北  
