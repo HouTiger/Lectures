@@ -17,9 +17,16 @@
 * L4.md
     * 类
     * vector
-* [L5.ipynb](https://colab.research.google.com/drive/1z1tz5FgayQHVp7RqF889r8DnBxFcVwin)
+* L5.ipynb
     * numpy basics
-    * 逻辑回归: logistic regression
+    * 逻辑回归: logistic regression  
+    * 实验平台: [Google Colab](https://colab.research.google.com/)  
+    * 参考资料  
+        * [Keras中文文档](https://keras.io/zh/)  
+        * [Tensorflow2.0 官方文档](https://tensorflow.google.cn/alpha)
+* L6.ipynb
+    * Deep Neural Network
+    * Deep Learning Framework: Keras and Tensorflow
     
 * Appendix_I.md  
     * VsCode 使用指北  
