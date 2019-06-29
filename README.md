@@ -28,5 +28,9 @@
     * Deep Neural Network
     * Deep Learning Framework: Keras and Tensorflow
     
+
+* L7.md
+    * Convolutional Neural Network
+
 * Appendix_I.md  
     * VsCode 使用指北  
